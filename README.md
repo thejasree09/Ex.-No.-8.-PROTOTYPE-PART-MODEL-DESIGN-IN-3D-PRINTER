@@ -46,10 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-```
+
 ![Screenshot 2025-04-17 162552](https://github.com/user-attachments/assets/e098a16f-9536-4ca5-ba9b-9c716de320d6)
 ![Screenshot 2025-04-17 162616](https://github.com/user-attachments/assets/ab28bf01-b046-4c38-8729-f8ff719d9e6f)
-```
+
 
 
 
