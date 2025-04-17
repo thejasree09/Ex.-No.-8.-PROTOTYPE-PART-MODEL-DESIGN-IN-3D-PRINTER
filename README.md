@@ -47,9 +47,11 @@
 
 ## Output:
 ```
-![WhatsApp Image 2025-04-17 at 16 26 54_6a2db5e3](https://github.com/user-attachments/assets/9396d94a-fd1e-4601-9835-7e7c2055a790)
-![WhatsApp Image 2025-04-17 at 16 27 39_94d5d84d](https://github.com/user-attachments/assets/a269fb3e-c22f-4301-9783-bee7a927c6d5)
+![Screenshot 2025-04-17 162552](https://github.com/user-attachments/assets/e098a16f-9536-4ca5-ba9b-9c716de320d6)
+![Screenshot 2025-04-17 162616](https://github.com/user-attachments/assets/ab28bf01-b046-4c38-8729-f8ff719d9e6f)
 ```
+
+
 
 
 
